@@ -130,7 +130,6 @@
 
 // Q9. Find out the largest number out of 3 numbers?
 // Q10. Write a code to swap 2 numbers?
-// Q11. Find out the second smallest number out of 3 numbers?
 
 
 // Q10. swap 2 numbers
@@ -150,6 +149,42 @@
 // console.log(a,b)
 
 
+// Q11. Find out the second smallest number out of 3 numbers?
 
+//  let a=8;
+//  let b=6;
+//  let c=15;
+
+//  if((a>b && a<c) || (a<b && a>c)){
+//     console.log("a is the second smallest")
+//  }
+
+//  else if((b>a && b<c) || (b<a && b>c)){
+//     console.log("b is the second smallest")
+//  }
+//  else{
+//     console.log("c is the second smallest")
+//  }
+
+
+// Q12.Write a program to make a simple calculator using switch statement that takes operator and two numbers from user and print the result after operation.
+
+// Note: You have to complete Calculator. No need to take any input
+
+// Q13.Write a program that takes a number and prints whether the number is divisible by 6 and 9 or not.
+
+// Q14.You are provided with a table containing some characters and their corresponding values. Your task will be to find the value from the table corresponding to an input character and return it.
+
+// | P or p 	- PrepBytes      	|
+// | Z or z 	- Zenith         	|
+// | E or e 	- Expert Coder   	|
+// | D or d 	- Data Structure 	|
+
+// Note: You have to complete getValue function. No need to take any input.
+
+// Q15.Check whether the triangle is Acute or Obtuse
+// Write a program takes takes three angles and checks whether the triangle is acute or obtuse.
+
+// Note: You have to complete Triangle_Check. No need to take any input
 
 
