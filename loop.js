@@ -54,15 +54,86 @@
 
 // Q4. Display the addition of 1 to 10
 
-let i=1;
-let sum=0;
-while(i<=10){
-    sum=sum+i;
-    i++;
-}
-console.log(sum);
+// let i=1;
+// let sum=0;
+// while(i<=10){
+//     sum=sum+i;
+//     i++;
+// }
+// console.log(sum);
 
 
 // Q5. find out a factorial of a number
+
+// let a=1;
+// let s=1;
+// while(a<=5){
+//     s=s*a;
+//     a++;
+// }
+// console.log(s)
+
+
+
 // Q6. display multiplication of 1 to 5(1*2*3*4*5)
 // Q7.Display the result of 1^2+ 2^2+ 3^2+ 4^2+ 5^2
+
+
+// Q8. Display and findout addition of each digit of a number
+
+
+// let n=99999999;
+// let s=0;
+
+// while(n>0){
+//     r = n%10;
+//     s = s+r;
+//     n = Math.floor(n/10);
+// }
+// console.log("Sum of the digit:",s)
+
+
+// Q9. How to reverse a number?
+
+// let n=123;
+// let s=0;
+
+// while(n>0){
+//     r = n%10;
+//     s = s*10+r;
+//     n = Math.floor(n/10);
+// }
+// console.log("Reverse Number:",s)
+
+
+// Q10. Find out a number is palindrome or not?
+
+// let n=121;
+// let s=0;
+
+// let o=n;
+// while(n>0){
+//     r = n%10;
+//     s = s*10+r;
+//     n = Math.floor(n/10);
+// }
+// console.log(o,s);
+// if(o===s){
+//     console.log("palindrome")
+// }
+// else{
+//     console.log("Not palindrome")
+// }
+
+
+// Q11. Find out fibonacci series of a number
+
+// let a=0,b=1,c=0;
+// let n=34;
+
+// while(c<=n){
+//     console.log(c);
+//     a=b;
+//     b=c;
+//     c=a+b;
+// }
