@@ -137,3 +137,60 @@
 //     b=c;
 //     c=a+b;
 // }
+
+
+// Q12. check a number is armstrong or not?
+
+// let n=1634;
+// let m=n;
+// let s=0;
+// let count=0;
+// let n=num;
+// while(num>0){
+//     count++;
+//     num=Math.floor(num/10);
+// }
+// console.log("count",count)
+
+// let count=String(n).length;
+// console.log(count,"length")
+
+// while(n>0){
+//     r=n%10;
+//     s=s+ Math.pow(r,count);
+//     n=Math.floor(n/10);
+// }
+// if(m===s){
+//     console.log("armstrong")
+// }
+// else{
+//     console.log("not a armstrong")
+// }
+
+// Q find the number of digit in a given number?
+
+// 123 -3
+// 1234-4
+// let num=6578635;
+// let count=0;
+
+// while(num>0){
+//     count++;
+//     num=Math.floor(num/10);
+// }
+
+// console.log(count);
+
+// Q15. find the sum of all the even integer from 1 to N
+
+// let N=6;
+// let s=0;
+// let i=1;
+
+// while(i<=N){
+//   if(i%2===0){
+//     s=s+i;
+//   }
+//   i++;
+// }
+// console.log(s);
